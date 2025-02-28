@@ -56,7 +56,7 @@
 			},
 			{
 				"name": "Set infilefolder",
-				"description": " ",
+				"description": "",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
