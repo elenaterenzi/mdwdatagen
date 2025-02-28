@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-elebeu",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fab45a5c-a205-4930-98f3-4ba1a33180d5",
+		"tenantId": "771f42b0-56b1-4b88-9cb0-2951fe10d6df"
+	}
+}
