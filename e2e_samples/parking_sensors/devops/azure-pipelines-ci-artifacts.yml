@@ -5,12 +5,12 @@ trigger:
     - release/*
   paths:
     include:
-    - ./*
+    - e2e_samples/parking_sensors/*
 
 pr: none
 
 variables:
-  basePath: '.'
+  basePath: 'e2e_samples/parking_sensors'
   pythonWorkingDir: '$(basePath)/src/ddo_transform'
   pythonPackageMajorVersion:  1
   pythonPackageMinorVersion:  1

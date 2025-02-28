@@ -1,7 +1,7 @@
 {
 	"name": "Parking Sensors",
 	"dockerComposeFile": "docker-compose.yml",
-	"workspaceFolder": "/workspace/",
+	"workspaceFolder": "/workspace/e2e_samples/parking_sensors",
 	"service": "parking_sensor_dc",
 	"customizations": {
 		"vscode": {
